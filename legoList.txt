@@ -5,137 +5,241 @@ LEGOS
 /* ---------------------------------------------------------------------
  LAYOUT
 ------------------------------------------------------------------------ */
-.grid
-
-.feature
-
-.media
-
-.box
+.article
 
 .blocks
 
-.hList
+.bobber
 
-.vList
+.box
 
-.keyValue
+.bricks
 
-.article
+.bubble
 
-.section
+.centered
+
+.chunk
 
 .column
 
+.container
+
+.cubes
+
+.display
+
+.dropOff
+
+.feature
+
+.gap
+
+.grid
+
+.hList
+
+.keyValue
+
+.media
+
+.overlap
+
+.peekAboo
+
+.pod
+
+.section
+
+.shelf
+
 .sidebar
+
+.split
+
+.stack
+
+.suspend
+
+.tile
+
+.view
+
+.vList
+
+.wrapper
 
 /* ---------------------------------------------------------------------
  ACTION/INTERACTION
 ------------------------------------------------------------------------ */
 .action
 
-.interact
+.btn
 
 .call
 
 .cta
 
+.dialogue
+
 .engagement
 
+.icon
+
+.interact
+
 .pip
+
+.spinner
+
+.toolTip
 
 /* ---------------------------------------------------------------------
  INTRO
 ------------------------------------------------------------------------ */
-.intro
+.caption
 
 .foreward
 
-.preface
+.intro
 
-.caption
+.preface
 
 /* ---------------------------------------------------------------------
  REFERENCE
 ------------------------------------------------------------------------ */
-.reference
+.blockquote
 
-.index
+.catalog
 
 .info
 
+.index
+
 .lookup
+
+.quote
+
+.reference
+
+.table
+
+.tag
 
 /* ---------------------------------------------------------------------
  MAIN FOCUS
 ------------------------------------------------------------------------ */
+.article
+
 .attention
 
-.hero
+.billboard
+
+.focal
 
 .focus
 
 .featured
 
-.billboard
+.hero
 
 .highlight
 
-.spotlight
+.overlay
 
 .overview
+
+.overUnder
+
+.poster
+
+.postIt
+
+.promotion
+
+.spotlight
+
+.stage
+
+.teaser
 
 /* ---------------------------------------------------------------------
  MESSAGE
 ------------------------------------------------------------------------ */
+.alert
+
+.blurb
+
 .message
 
 .note
 
-.alert
+.testimonial
 
 /* ---------------------------------------------------------------------
  CATEGORICAL
 ------------------------------------------------------------------------ */
+.bucket
+
 .category
-
-.refine
-
-.filter
-
-.menu
 
 .detail
 
+.filter
+
 .info
+
+.list
+
+.listing
+
+.menu
+
+.pagination
+
+.refine
+
+.summary
 
 /* ---------------------------------------------------------------------
  ENTRANCE/BETWEEN
 ------------------------------------------------------------------------ */
 .entrance
 
+.inBetween
+
 .portal
 
 .segway
 
+.through
+
 /* ---------------------------------------------------------------------
  INTERACTIVE COMPONENTS
 ------------------------------------------------------------------------ */
-.nav
-
 .accordion
+
+.carousel
+
+.checkBox
+
+.cycler
+
+.filter
+
+.flipCard
+
+.modal
+
+.navigation
 
 .slider
 
 .slide
 
-.carousel
+.toggle
 
 /* ---------------------------------------------------------------------
- ARBITRARY
+ ARBITRARY OBJECTS
 ------------------------------------------------------------------------ */
-.dialogue
-
-.connectFour //recently used on circular icons stacked in a row
-
-Also see: https://github.com/bjankord/CSS-Components-Modifiers-And-Subcomponents-Collection/blob/master/components.css
+.connectFour
